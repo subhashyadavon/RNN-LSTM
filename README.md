@@ -50,8 +50,8 @@ pip install torch datasets
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/subhashyadavon/lstm.git
-cd lstm
+git clone https://github.com/subhashyadavon/RNN-LSTM.git
+cd RNN-LSTM
 ```
 
 2. Install dependencies:
